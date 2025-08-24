@@ -1,6 +1,6 @@
 # 📓 AlgoJournal
 
-A daily log of algorithms, coding challenges, and lessons learned or revised — documenting my journey of consistent growth as a programmer.
+A log of algorithms, coding challenges, and lessons learned or revised — documenting my journey of consistent growth as a programmer.
 
 ---
 
